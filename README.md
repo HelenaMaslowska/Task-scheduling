@@ -1,7 +1,6 @@
 # Task scheduling competition
-Repository contains 3 projects of task scheduling competition. October - December 2023 
+Repository contains project of task scheduling competition. October - December 2023 
 
-## Task 1
 Sort tasks on a 1 machine, minimize the number of late tasks. Task have time to be done and end time.
 ### Comment
 I don't know how this program works but I had really complex idea while writing it.
