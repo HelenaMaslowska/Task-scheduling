@@ -1,5 +1,5 @@
 # Task scheduling competition
-Repository contains project of task scheduling competition. Sort tasks on a 1 machine, minimize the number of late tasks. Task have time to be done and end time. 
+Repository contains project of task scheduling competition. Sort tasks on a 1 machine, minimize the number of late tasks. Task have the time to be done and end time. 
 
 ### Comment
 I don't know how this program works but I had really complex idea while writing it. We 2 another versions of this program, changing speed and number of machines and adding starting point for each task, or making task divisible.
