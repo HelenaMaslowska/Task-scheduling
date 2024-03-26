@@ -1,7 +1,8 @@
 # Task scheduling competition
 Repository contains project of task scheduling competition. October - December 2023 
 
-Sort tasks on a 1 machine, minimize the number of late tasks. Task have time to be done and end time.
+Sort tasks on a 1 machine, minimize the number of late tasks. Task have time to be done and end time. We 2 another versions of this program, changing speed and number of machines and adding starting point for each task, or making task divisible.
+
 ### Comment
 I don't know how this program works but I had really complex idea while writing it.
 My program won 2nd place in competition to solve this problem, but mine took 44ms on 500 instance (program on the 1st place got 1,7sec on the same instance), the difference between our results was 1 element of lateness.
